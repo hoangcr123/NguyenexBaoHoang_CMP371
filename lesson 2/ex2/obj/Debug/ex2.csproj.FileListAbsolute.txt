@@ -1,0 +1,6 @@
+D:\IT Code\project vs19\lesson 2\ex2\bin\Debug\ex2.exe.config
+D:\IT Code\project vs19\lesson 2\ex2\bin\Debug\ex2.exe
+D:\IT Code\project vs19\lesson 2\ex2\bin\Debug\ex2.pdb
+D:\IT Code\project vs19\lesson 2\ex2\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+D:\IT Code\project vs19\lesson 2\ex2\obj\Debug\ex2.exe
+D:\IT Code\project vs19\lesson 2\ex2\obj\Debug\ex2.pdb
