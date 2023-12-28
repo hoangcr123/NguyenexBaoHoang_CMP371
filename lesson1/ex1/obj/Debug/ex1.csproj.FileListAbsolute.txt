@@ -1,0 +1,7 @@
+D:\IT Code\project vs19\ex1\ex1\bin\Debug\ex1.exe.config
+D:\IT Code\project vs19\ex1\ex1\bin\Debug\ex1.exe
+D:\IT Code\project vs19\ex1\ex1\bin\Debug\ex1.pdb
+D:\IT Code\project vs19\ex1\ex1\obj\Debug\ex1.csproj.AssemblyReference.cache
+D:\IT Code\project vs19\ex1\ex1\obj\Debug\ex1.csproj.CoreCompileInputs.cache
+D:\IT Code\project vs19\ex1\ex1\obj\Debug\ex1.exe
+D:\IT Code\project vs19\ex1\ex1\obj\Debug\ex1.pdb
